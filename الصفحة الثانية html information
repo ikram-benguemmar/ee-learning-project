@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utv-8">
+        <meta name="viewport" content="width-device">
+        <title>E-learning</title>
+    </head>
+    <body>
+      <div style="text-align:center ">
+<div class="wrapper">
+   <form action="">
+      <h1><i>Hello this is E-learning platform !</i></h1>
+   <div style="text-align: center"> <i>"Every day is a new opporturity to learn " </i></br><i>let's go</i> </div>
+   </br>
+<div class="profile-upload">
+   <label for="photo">
+      <img id="preview" src="http://cdn-icons-png.flaticon.com/5 12/149/149071.png" width="90">
+      </label>
+      <input type="file" id="photo" accept="image" onchange="showImage(event) hidden">
+      <p>Upload profile photo</p>
+
+   <div class="input-box">
+      <input type="Enter your student ID" placeholder="enter your student ID" required>
+      <i class='bx bxs-lock-alt'></i> 
+   </div>
+</br>
+   <div class="input-box">
+      <input type="Select your university" placeholder="Select your university" required>
+      <i class='bx bxs-lock-alt'></i>
+   </div></br>
+   <div class="input-box">
+      <input type="Enter year" placeholder="year" required>
+      <i class='bx bxs-lock-alt'></i>
+   </div>
+
+
+</br>
+   <a href="indes.html"><button>Click me</button></a>
+      
+   
+   </form>
+</div>
+</body>
+</html>
