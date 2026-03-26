@@ -1,0 +1,250 @@
+indes.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,600,1,0"
+    />
+    <title>Sidebar 1</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+    </br>
+    <span>Dashboard</span>
+      <button>
+        <a href="inder.html"><button>🏠  Learning series</button></a>
+      </button>
+      <button>
+        <a href="indef.html"><button> 📑 Courses</button></a>
+      </button>
+      <button>
+        <a href="indef.html"><button> ⚙ Settings</button></a>
+      </button>
+
+    
+
+      </button>
+      <button>
+        <a href="indez.html"><button> 🔐 Quizzes</button></a>
+      </button>
+      <button>
+        <a href="indef.html"><button> My profile</button></a>
+      </button>
+
+      <button>
+         <a href="index.html"><button>  🏃🏿‍♀️ Sign out</button></a>
+      </button>
+    </aside>
+    <div class="content">
+     <div style="text-align:center ;"> <h1><i>Hello ...!</i></h1></br><h2><i>Are you ready for this journey?</i></h2></br><h3><i>Let's begin ✨</i></h3></br> E-learning platform</br>
+ القبول بالشروط
+باستخدامك لهذا الموقع، فإنك توافق على الالتزام بهذه الشروط. إذا لم توافق، يُرجى عدم استخدام الموقع.
+</br> استخدام الموقع
+الموقع مخصص للاستخدام الشخصي فقط، وليس للأغراض التجارية إلا إذا تم الاتفاق.
+يمنع استخدام الموقع لأي أنشطة غير قانونية أو مخالفة للأخلاق.
+</br> الحساب والمعلومات
+يجب أن تكون جميع المعلومات التي تقدمها صحيحة ودقيقة.
+أنت مسؤول عن الحفاظ على سرية معلومات الدخول الخاصة بك.
+</br> الملكية الفكرية
+جميع المحتويات على الموقع (نصوص، صور، فيديوهات، شعارات) مملوكة للموقع أو للجهات المانحة للحقوق.
+لا يُسمح بنسخ أو توزيع المحتوى بدون إذن.
+</br> المسؤولية
+الموقع يبذل جهده لضمان دقة المعلومات، لكنه لا يتحمل أي أضرار ناتجة عن استخدام المحتوى.
+الموقع لا يتحمل أي خسائر مادية أو معنوية نتيجة استخدام الموقع.
+</br> الروابط لمواقع أخرى
+الموقع قد يحتوي على روابط لمواقع خارجية. نحن غير مسؤولين عن محتوى تلك المواقع.
+</br>التعديلات على الشروط
+الموقع يحتفظ بحق تعديل هذه الشروط في أي وقت. التعديلات تصبح نافذة عند نشرها على الموقع.
+</br> القانون الواجب التطبيق
+تخضع هذه الشروط لقوانين [بلدك]، وأي نزاع يتم حله أمام المحاكم المختصة.<p>منصتنا التعليمية توفر لك أفضل الدورات، الملخصات، والاختبارات لتطوير مهاراتك وتحقيق أهدافك بسهولة.
+</br>💡 من نحن
+نحن منصة تعليمية حديثة تهدف إلى تسهيل الوصول إلى المعرفة لكل شخص، في أي وقت ومن أي مكان.
+نوفر محتوى تعليمي متنوع يساعدك على التعلم بطريقة بسيطة</br>، منظمة، وفعالة.
+📚 ماذا نقدم لك؟
+دورات تعليمية في مختلف المجالات
+ملخصات دروس سهلة الفهم
+اختبارات لقياس مستواك
+متابعة تقدمك خطوة بخطوة
+مجتمع طلابي للتفاعل والمساعدة
+</br>🚀 لماذا تختار منصتنا؟
+واجهة سهلة وبسيطة
+محتوى منظم ومحدث باستمرار
+تعلم في أي وقت ومن أي جهاز
+تجربة مخصصة حسب اهتماماتك
+</br>⭐ ابدأ الآن
+لا تضيع وقتك، مستقبلك يبدأ اليوم!
+انضم إلينا وابدأ التعلم بطريقة ذكية وممتعة.</p></div>
+    </div>
+  
+    
+    <script src="maan.js"></script>
+    
+  </body>
+</html>
+styles.css
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #d6d4bf;
+  color: #f5efef;
+  font-family: "Euclid Circular A";
+}
+
+button {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  background: #080808;
+  transition: width 0.4s;
+}
+
+.sidebar header {
+  display: flex;
+  align-items: center;
+  height: 72px;
+  padding: 0 1.25rem 0 0;
+  border-bottom: 1px solid rgb(255 255 255 / 12%);
+}
+
+.sidebar header button {
+  width: 64px;
+}
+
+.sidebar header img {
+  height: 24px;
+  width: 24px;
+  margin-left: 24px;
+  margin-right: 14px;
+  object-fit: contain;
+}
+
+.sidebar button {
+  position: relative;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  height: 50px;
+  width: 100%;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  padding: 0 16px 0 25px;
+  color: #f7f7f7;
+  transition: 0.25s;
+}
+
+.sidebar button.active,
+.subnav {
+  background: #32303c;
+}
+
+.sidebar button:hover {
+  background: #3c3a48;
+}
+
+.sidebar button span:nth-child(2) {
+  flex: 1 1 auto;
+}
+
+.sidebar button.active span:nth-child(3) {
+  rotate: -180deg;
+}
+
+.sub-nav button.active::before {
+  background: #f9f9f9;
+}
+
+.subnav {
+  position: relative;
+  overflow: hidden;
+  height: 0;
+  transition: 0.4s;
+}
+
+.subnav-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.subnav button {
+  padding-left: 64px;
+}
+
+.subnav button::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 36px;
+  translate: 0 -50%;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: rgb(255 255 255 / 40%);
+}
+
+.material-symbols-outlined {
+  font-size: 22px;
+  transition: 0.3s;
+}
+.content{
+  color: #080808;
+
+}
+maan.js
+const subNavs = document.querySelectorAll(.subnav);
+const buttons = document.querySelectorAll(.sidebar button);
+
+const resetSidebar = () => {
+  subNavs.forEach((nav) => {
+    nav.style.height = 0;
+  });
+
+  buttons.forEach((b) => {
+    b.classList.remove("active");
+  });
+};
+
+const handleHeaderClicked = (subNav) => {
+  resetSidebar();
+
+  const subNavOuter = document.querySelector(#${subNav}),
+    subNavInner = document.querySelector(#${subNav} .subnav-inner),
+    button = subNavOuter.previousElementSibling;
+
+  if (subNavOuter.clientHeight > 0) {
+    subNavOuter.style.height = 0;
+    button.classList.remove("active");
+    return;
+  }
+
+  button.classList.toggle("active");
+  const newHeight = ${subNavInner.clientHeight}px;
+  subNavOuter.style.height = newHeight;
+};
